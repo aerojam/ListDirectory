@@ -46,7 +46,7 @@ namespace ListDirectory
 
         private static void WalkTheTree(DirectoryInfo rootDir)
         {
-            Console.WriteLine(rootDir.FullName);
+            Console.WriteLine(rootDir.FullName + "kuku");
         }
     }
 }
